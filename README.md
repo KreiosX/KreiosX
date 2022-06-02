@@ -8,5 +8,9 @@
 KreiosX/KreiosX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<body>
+  <div>
 <img align="center" width=25px height=25px src="https://www.vectorlogo.zone/logos/python/python-vertical.svg">
 <img align="center" width=25px height=25px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+  </div>
+</body>
