@@ -9,4 +9,4 @@ KreiosX/KreiosX is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <img align="center" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg">
-<img align="center" src="[https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+<img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
