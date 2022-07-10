@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asil ACKU
-- 👀 I’m interested in mobile development especially on game development but for now i have other things that has priority like Reverse Engineering.
-- 🌱 I’m currently learning Web3 with a huge passion.
-- 💞️ I’m looking to collaborate on Web / Desktop App development.
+- 👀 I’m interested in wide range of development area because I have deep background with computer and development.
+- 🌱 I’m currently learning Web3, AI and expertising my skills.
+- 💞️ I’m looking to collaborate IoT &| Mobile &| Web &| Desktop development.
 - 📫 How to reach me info@toolboutique.com
 
 <!---
