@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Asil ACKU
-- 👀 I’m interested in wide range of development area because I have deep background with computer and development.
 - 🌱 I’m currently learning Web3, AI and expertising my skills.
 - 💞️ I’m looking to collaborate IoT &| Mobile &| Web &| Desktop development.
 - 📫 How to reach me info@toolboutique.com
