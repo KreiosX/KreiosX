@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asil ACKU
-- 🌱 I’m currently learning Web3, AI and expertising my skills.
+- 🌱 I’m currently learning Web3 and expertising my current skills.
 - 💞️ I’m looking to collaborate Web &| Desktop development.
 - 📫 How to reach me info@toolboutique.com
 
